@@ -7,7 +7,7 @@ In this course:
   - Learning how to design algorithms for searching, sorting, and optimization and apply them to answer practical questions.
 
 ---
-<mark>For Documentation</mark>
+<mark>For Documentation:</mark>
 
 *studied from [cloudnativebasecamp](https://cloudnativebasecamp.com/) ~ by Prof. AHMED METWALLY*  \
 *Written by KHALED MAHER* \
