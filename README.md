@@ -9,6 +9,6 @@ In this course:
 ---
 <mark>For Documentation</mark>
 
-*studied from [cloudnativebasecamp](https://cloudnativebasecamp.com/) ~ by Prof. AHMED METWALLY*  \newline
+*studied from [cloudnativebasecamp](https://cloudnativebasecamp.com/) ~ by Prof. AHMED METWALLY*  \
 *Written by KHALED MAHER*
 Feb 12 2023 :joy: 
