@@ -9,7 +9,7 @@ In this course:
 ---
 <mark>For Documentation:</mark>
 
-*studied from [cloudnativebasecamp](https://cloudnativebasecamp.com/) ~ by Prof.* [AHMED METWALLY](https://cloudnativebasecamp.com/) \
+*studied from [cloudnativebasecamp](https://cloudnativebasecamp.com/) ~ by Prof.* [AHMED METWALLY](https://www.linkedin.com/in/metwally/) \
 *Written by KHALED MAHER* \
 *Feb 12 2023*  \
 :coffee: :repeat: 
