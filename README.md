@@ -6,4 +6,9 @@ In this course:
   - How to design a solution to each problem
   - Learning how to design algorithms for searching, sorting, and optimization and apply them to answer practical questions.
 
+---
+==for documentation==
 
+*studied from [cloudnativebasecamp](cloudnativebasecamp.com) by Prof. AHMED METWALLY *
+*Written by KHALED MAHER*
+Feb 12 2023 :joy: 
