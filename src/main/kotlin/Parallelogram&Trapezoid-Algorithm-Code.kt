@@ -10,7 +10,7 @@ fun main() {
         2- multiply the base and the high
         3- Print The Area
         */
-    println("Exercise 1 - Parallelogram\n______ ")
+    println("Exercise 1 - Parallelogram\n___-___ ")
     print("Enter a base number: ")
     var b: Int = readln()!!.toInt();
     print("Enter a high number: ")
@@ -31,7 +31,7 @@ fun main() {
       */
 
 
-    println("Exercise 1 - Trapezoid\n______")
+    println("Exercise 1 - Trapezoid\n___-___")
     print("Enter the sort base: ")
     var shortBase: Int= readln()!!.toInt()
     print("Enter the Long base: ")
